@@ -1,7 +1,7 @@
 planets = {
   mercury: {
     name: "Mercury",
-    distance_from_sun: "57,909,227 km (0.39 AU)"
+    distance_from_sun: "57,909,227 km (0.39 AU)",
     diameter: "4,879 km",
     orbit_period: "88 days",
   },
