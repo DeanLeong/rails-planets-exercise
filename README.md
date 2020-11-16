@@ -1,4 +1,4 @@
-# HOMEWORK: RAILS PLANETS!!!
+# RAILS PLANETS!!!
 
 ![orbits](https://iwsmt-content-ok2nbdvvyp8jbrhdp.stackpathdns.com/2282013232750iAtC2afkODS6U.gif)
 
