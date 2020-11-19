@@ -13,7 +13,7 @@ Fork and clone this repo.
 Create a new rails project called planets with a postgresql database, skipping test files, and skip making a git repo.
 
 ```
-rails new planets --database=postgresql --skip-test -G --api
+rails new . -MT --skip-active-storage --api --database=postgresql
 ```
 
 `cd` into the rails app.
