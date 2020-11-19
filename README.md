@@ -16,8 +16,6 @@ Create a new rails project called planets with a postgresql database, skipping t
 rails new . -MT --skip-active-storage --api --database=postgresql
 ```
 
-`cd` into the rails app.
-
 Create the database:
 
 ```
